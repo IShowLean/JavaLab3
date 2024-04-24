@@ -1,0 +1,3 @@
+INSERT INTO friend
+VALUES
+(1, 2)
